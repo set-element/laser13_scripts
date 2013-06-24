@@ -1,0 +1,9 @@
+#
+# define file names and locations
+TIPPER_IP="TIPPER_IP"
+TIPPER_IP_FULL="TIPPER_IP_FULL"
+
+RAW_TIPPER_DATA_DIR="/home/scottc/development/laser13/tipper-IPs-searches"
+RAW_TIPPER_DATA_OUT="RAW_LBL_DATA"
+PROC_TIPPER_DATA="LBL_DATA"
+TIPPER_INDICATE="INDICATORS.IP.out"
